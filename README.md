@@ -23,6 +23,7 @@ controllers/registration_controller.py
 ส่งผลลัพธ์กลับไป View
 
 3. MODEL
+
 models/student.py
 หน้าที่: จัดการข้อมูลนักเรียน
 - Student: ข้อมูลนักเรียนแต่ละคน
@@ -59,7 +60,7 @@ models/grade.py
 ตรวจสอบเกรดผ่าน (A, B+, B, C+, C, D+, D)
 ตรวจสอบ prerequisite จากเกรด
 
-4. VIEW 
+4. VIEW
 views/student_view.py
 หน้าที่: แสดงผลและรับข้อมูลจากผู้ใช้
 ฟังก์ชันหลัก
