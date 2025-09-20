@@ -63,7 +63,9 @@ models/grade.py
 4. VIEW
 
 views/student_view.py
+
 หน้าที่: แสดงผลและรับข้อมูลจากผู้ใช้
+
 ฟังก์ชันหลัก
 4.1 display_login_menu(): แสดงเมนูเข้าสู่ระบบ
 4.2 display_student_menu(): แสดงเมนูนักเรียน
