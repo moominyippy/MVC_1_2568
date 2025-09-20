@@ -123,12 +123,13 @@ if __name__ == "__main__":
 
 ## การติดตั้งและการใช้งาน (Installation and Usage)
 
+```
 ### 1) เตรียมสภาพแวดล้อม
 
 * Python 3.10+
 * (แนะนำ) สร้าง virtualenv และติดตั้ง dependencies
 
-```bash
+bash
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\\Scripts\\activate
 
