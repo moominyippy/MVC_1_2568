@@ -2,7 +2,6 @@
 
 โครงสร้างระบบ MVC และหน้าที่ของแต่ละไฟล์
 1. main.py
-# ไฟล์หลักที่เริ่มต้นระบบ
 หน้าที่: จุดเริ่มต้นของโปรแกรม สร้าง Controller และเริ่มระบบ
 def main():
     controller = RegistrationController()  # สร้าง Controller
