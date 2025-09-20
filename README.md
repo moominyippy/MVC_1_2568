@@ -61,6 +61,7 @@ models/grade.py
 ตรวจสอบ prerequisite จากเกรด
 
 4. VIEW
+
 views/student_view.py
 หน้าที่: แสดงผลและรับข้อมูลจากผู้ใช้
 ฟังก์ชันหลัก
