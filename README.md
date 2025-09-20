@@ -12,8 +12,8 @@
 
 * [ภาพรวม (Overview)](#ภาพรวม-overview)
 * [โครงสร้าง (Structure)](#โครงสร้าง-structure)
-* [หน้าที่ของไฟล์หลัก (Main Files & Responsibilities)](#หน้าที่ของไฟล์หลัก-main-files-responsibilities)
-* [การติดตั้งและการใช้งาน (Installation & Usage)](#การติดตั้งและการใช้งาน-installation-usage)
+* [หน้าที่ของไฟล์หลัก (Main Files and Responsibilities)](#หน้าที่ของไฟล์หลัก-main-files-and-responsibilities)
+* [การติดตั้งและการใช้งาน (Installation and Usage)](#การติดตั้งและการใช้งาน-installation-and-usage)
 * [รูปแบบไฟล์ข้อมูล (CSV Schemas)](#รูปแบบไฟล์ข้อมูล-csv-schemas)
 * [ฺBusiness Rules และการตรวจสอบความถูกต้อง](#business-rules-และการตรวจสอบความถูกต้อง)
 * [ลำดับขั้นตอนการทำงาน (Flows)](#ลำดับขั้นตอนการทำงาน-flows)
@@ -55,7 +55,7 @@ project-root/
 
 ---
 
-## หน้าที่ของไฟล์หลัก (Main Files & Responsibilities)
+## หน้าที่ของไฟล์หลัก (Main Files and Responsibilities)
 
 ### 1) `main.py`
 
@@ -121,7 +121,7 @@ if __name__ == "__main__":
 
 ---
 
-## การติดตั้งและการใช้งาน (Installation & Usage)
+## การติดตั้งและการใช้งาน (Installation and Usage)
 
 ### 1) เตรียมสภาพแวดล้อม
 
