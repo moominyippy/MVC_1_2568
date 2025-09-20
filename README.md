@@ -131,15 +131,11 @@ if __name__ == "__main__":
 bash
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\\Scripts\\activate
-
-
 ```
 
 ### 2) เตรียมไฟล์ข้อมูลเริ่มต้น
 ```
-
 ตรวจสอบให้มีไฟล์ในโฟลเดอร์ `data/` ตาม schema ด้านล่าง
-
 ```
 
 ### 3) รันโปรแกรม
