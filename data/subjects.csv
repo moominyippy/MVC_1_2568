@@ -1,0 +1,21 @@
+subject_id,subject_name,credits,instructor,prerequisite,max_students,current_students
+05501001,Basic Mathematics,3,Prof. John Smith,,30,1
+05501002,Basic Physics,3,Prof. Sarah Johnson,05501001,25,25
+05501003,Basic Chemistry,3,Prof. Michael Brown,05501001,20,0
+05501004,Basic Biology,3,Prof. Emily Davis,05501001,25,1
+05501005,Basic English,3,Prof. David Wilson,,40,0
+90690001,Thai Language for Communication,2,Prof. Jessica Garcia,,30,0
+90690002,Thai History,2,Prof. Christopher Miller,,25,0
+90690003,Geography of Thailand,2,Prof. Amanda Martinez,,20,0
+90690004,Arts and Culture,2,Prof. Daniel Anderson,,35,0
+90690005,Physical Education and Health,1,Prof. Ashley Taylor,,50,0
+05501006,Advanced Mathematics,3,Prof. John Smith,05501001,15,0
+05501007,Advanced Physics,3,Prof. Sarah Johnson,05501002,15,0
+05501008,Advanced Chemistry,3,Prof. Michael Brown,05501003,15,0
+05501009,Advanced Biology,3,Prof. Emily Davis,05501004,15,0
+90690006,Introduction to Economics,2,Prof. David Wilson,,30,0
+90690007,Introduction to Sociology,2,Prof. Jessica Garcia,,25,1
+90690008,General Psychology,2,Prof. Christopher Miller,,20,1
+90690009,Introduction to Philosophy,2,Prof. Amanda Martinez,,15,0
+90690010,Political Science,2,Prof. Daniel Anderson,,25,1
+05501010,Applied Mathematics,3,Prof. Ashley Taylor,05501006,20,0
