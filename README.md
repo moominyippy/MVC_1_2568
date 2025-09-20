@@ -134,7 +134,7 @@ source .venv/bin/activate   # Windows: .venv\\Scripts\\activate
 
 
 ```
-python-dateutil
+
 ```
 
 ### 2) เตรียมไฟล์ข้อมูลเริ่มต้น
